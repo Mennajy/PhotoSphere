@@ -1,0 +1,25 @@
+Bitbucket (Solution Git)
+Atom
+Xampp
+Composer
+Npm (https://www.npmjs.com/get-npm)
+
+Installez NodeJS
+
+Prerequisites
+
+    NodeJS + NPM: apt-get install nodejs-legacy npm
+    Grunt CLI: npm install -g grunt-cli
+    Bower: npm install -g bower
+
+
+Ouvrir NodeJs 'Command Prompt'
+
+Les Commandes
+"cd C:\xampp\htdocs\Photo-Sphere"
+"npm install & bower install"
+Grunt CLI: npm install -g grunt-cli
+Bower: npm install -g bower
+
+Erreur Possible (Git Not install)
+path C:\Program Files\Git\cmd\;%PATH% (https://stackoverflow.com/questions/20069297/bower-git-not-in-the-path-error)
